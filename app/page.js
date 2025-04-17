@@ -14,8 +14,8 @@ const page = () => {
 
     <div>
       <Head>
-        <title>AI Mock Interview</title>
-        <meta name="description" content="Ace your next interview with AI-powered mock interviews" />
+        <title>AI Simul Interview</title>
+        <meta name="description" content="Master your next interview with smart, AI-driven practice" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -23,12 +23,12 @@ const page = () => {
         {/* Header Section */}
         <header className="w-full py-8 bg-gray-100 shadow-md">
           <div className="container mx-auto flex flex-col md:flex-row justify-between items-center px-6">
-            <h1 className="text-3xl font-bold text-primary">AI Mock Interview</h1>
+            <h1 className="text-3xl font-bold text-primary">AI Practice Interview</h1>
             <nav className="flex flex-col sm:flex-row flex-wrap items-center justify-between mt-4 md:mt-0 space-y-4 sm:space-y-0 sm:space-x-4">
               <div>
                 <iframe
-                  src="https://github.com/sponsors/modamaan/button"
-                  title="Sponsor modamaan on GitHub"
+                  src="https://github.com/sponsors/adjebbar/button"
+                  title="Sponsor adjebbar on GitHub"
                   height="32"
                   width="114"
                   className="border-0 rounded-lg">
@@ -39,7 +39,7 @@ const page = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/modamaan/Ai-mock-Interview">
+                  href="https://github.com/adjebbar/Ai-mock-Interview">
                   <FaGithub className="w-10 h-8" />
                 </a>
               </div>
@@ -55,7 +55,7 @@ const page = () => {
 
         {/* Hero Section */}
         <section className="flex flex-col items-center justify-center text-center py-20 bg-gradient-to-r from-gray-900 to-gray-400  px-6 md:px-0">
-          <h2 className="text-4xl md:text-5xl font-bold text-white">Ace Your Next Interview</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-white">AI-driven practice Interview</h2>
           <p className="mt-4 text-lg md:text-xl text-white ">Practice with AI-powered mock interviews and get personalized feedback</p>
           <div className="mt-6 flex flex-col md:flex-row">
             <a
@@ -78,7 +78,7 @@ const page = () => {
           <div className="container mx-auto text-center">
             <h2 className="text-4xl font-bold text-gray-800">Features</h2>
             <p className="mt-4 text-lg text-gray-800">
-              Our AI Mock Interview platform offers a range of powerful features:
+              Our AI Practice Interview platform offers a range of powerful features:
             </p>
             <div className="flex flex-wrap justify-center mt-8">
               <div className="w-full md:w-1/3 px-4 py-8">
